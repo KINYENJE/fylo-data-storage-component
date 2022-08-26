@@ -1,0 +1,7 @@
+@media screen and (min-width: 1440px) {
+  body {
+    background-image: url(../images/bg-desktop.png);
+    background-size: unset;
+    background-position-y: bottom;
+  }
+}/*# sourceMappingURL=media_1440.css.map */
